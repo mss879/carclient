@@ -229,8 +229,7 @@ export function Footer() {
 
         <div className="mt-20 pt-8 border-t border-white/10 text-right text-gray-500 text-sm">
           <p>
-            &copy; Autofix. All rights reserved. Designed by{" "}
-            <span className="text-white font-bold">fourtwelve</span>.
+            Made by <span className="text-white font-bold">ARC AI</span> Powered by Next.js
           </p>
         </div>
       </div>
